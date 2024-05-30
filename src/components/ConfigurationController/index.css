@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.layout-container{
+    background-color: #475569;
+    color: #ffffff;
+    font-family: roboto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+.layout-label{
+    margin-left: 4px;
+}
+
+.label-input-container{
+    margin: 5px;
+}

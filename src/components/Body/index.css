@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.body-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
